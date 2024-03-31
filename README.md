@@ -1,10 +1,10 @@
-# Bem-vindo ao meu perfiil!
+# Bem-vindo ao meu perfil!
 
 ## Sobre Mim
 Olá! Meu nome é Rony, sou estudante do Bacharelado em Ciências da Computação pela UFRPE, apaixonado por resolver problemas e aprender novas tecnologias.
 Meu foco principal está em desenvolvimento de software e análise de dados.
 
-Aqui nesses respositórios estarão algumas atividades e conhecimentos que utilizei ao longo do curso, incluindo os Projetos de algumas disciplinas.
+Aqui nesses respositórios estarão algumas atividades e conhecimentos que utilizei ao longo do curso, incluindo os Projetos de algumas disciplinas. Meus projetos pessoais estarão em privado, se quiser mais informações, só entrar em contato através do e-mail no final da página.
 
 - 🌱 Atualmente estou aprendendo sobre análise de desempenho e ciência de dados.
 - 💼 Estou procurando oportunidades para colaborar em projetos interessantes.
